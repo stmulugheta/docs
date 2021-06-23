@@ -2,6 +2,23 @@
 https://guides.github.com/activities/hello-world/
 
 
+#Main steps to follow:
+
+1. Create a branch for each task: The main branch should contain only finished and approved work.
+
+2. Before starting to work, #pull the latest version of that branch to your local repository. Try to do this regularly to always work on an updated version. https://github.com/git-guides/git-pull 
+
+3. Work on that and commit your changes. Use good commit messages.
+
+4. If you are ready to push your work to the branch (or to show your work so far to your team), open a pull request. This is to let the team know about your changes so they can review and approve them, and pull this latest version to their local repositories. https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+
+The same applies to Colab notebooks. It is recommended to push your Colab notebooks as Jupyter notebooks to GitHub for long-term versioning with proper commit messages. This way, others can quickly know what changes were made in this notebook, and all of the work, as well as its history, is centralized.
+5. If your changes are approved, another collaborator can merge the pull request into the branch. https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-reques
+6. Use issues to anything strictly related to the code, possible enhancements, or modularization.
+
+	https://guides.github.com/features/issues/ 
+
+  
 ## GitHub Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
